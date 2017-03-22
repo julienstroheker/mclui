@@ -31,10 +31,10 @@ mclui is written in Go 1.7. Make sure you are using at least
 version 1.7.
 
 ```bash
-mkdir -p $GOPATH/src/github.com/yesnault
-cd $GOPATH/src/github.com/yesnault
-git clone git@github.com:yesnault/mclui.git
-cd $GOPATH/src/github.com/yesnault/mclui
+mkdir -p $GOPATH/src/github.com/julienstroheker
+cd $GOPATH/src/github.com/julienstroheker
+git clone git@github.com:julienstroheker/mclui.git
+cd $GOPATH/src/github.com/julienstroheker/mclui
 go build
 ```
 
